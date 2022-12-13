@@ -1,0 +1,20 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Curso de Asincronismo con JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/callback/challenge.js"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Anyilo Rangel",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "node-fetch": "^3.3.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
